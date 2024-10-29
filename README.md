@@ -31,19 +31,19 @@ Siga os passos abaixo para rodar o projeto localmente:
 
 ## Estrutura do Projeto
 
-├── app
-│   ├── src
-│   │   ├── main
-│   │   │   ├── java/com/example/appconsumo
-│   │   │   │   ├── MainActivity.java # Atividade principal para monitoramento de consumo
-│   │   │   ├── res
-│   │   │   │   ├── layout
-│   │   │   │   │   ├── activity_main.xml # Layout da tela principal
-│   │   │   │   └── values
-│   │   │   │       ├── strings.xml # Strings usadas no app
-│   │   │   │       ├── colors.xml # Cores definidas no projeto
-│   └── build.gradle # Configuração do Gradle
-└── README.md # Este arquivo
+── app
+   ├── src
+   │   ├── main
+   │   │   ├── java/com/example/appconsumo
+   │   │   │   ├── MainActivity.java # Atividade principal para monitoramento de consumo
+   │   │   ├── res
+   │   │   │   ├── layout
+   │   │   │   │   ├── activity_main.xml # Layout da tela principal
+   │   │   │   └── values
+   │   │   │       ├── strings.xml # Strings usadas no app
+   │   │   │       ├── colors.xml # Cores definidas no projeto
+   └── build.gradle # Configuração do Gradle
+
 
 ## Design e Prototipage
 A interface do app foi criada usando ConstraintLayout no modelo Design para ser mais simples e facil de se usar e para ser mais compacto ao android e mais simples e pratico assim podendo se acostumar com o tempo.
