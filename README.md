@@ -3,7 +3,7 @@
 > Um aplicativo Android desenvolvido para monitorar o consumo de recursos.
 
 ## Descrição
-O **AppConsumo** permite ao usuário monitorar e gerenciar o consumo de recursos, como energia elétrica, água, entre outros. Ele exibe gráficos e estatísticas detalhadas para ajudar o usuário a entender seu consumo e tomar decisões informadas.
+O **AppConsumo** permite ao usuário monitorar e gerenciar o consumo de combustivel de carro para uma viagem. Ele exibe gráficos e estatísticas detalhadas para ajudar o usuário a entender seu consumo e tomar decisões informadas.
 
 ## Funcionalidades
 - [x] Entrada de dados de consumo
@@ -50,7 +50,7 @@ A interface do app foi criada usando ConstraintLayout no modelo Design para ser 
 
 ## Telas do Aplicativo 
 
-Tela Principal
+> Tela Principal
 
 ![Captura de tela 2024-10-28 200248](https://github.com/user-attachments/assets/9cefc399-5375-405e-9df3-720695de1e3f)
 
