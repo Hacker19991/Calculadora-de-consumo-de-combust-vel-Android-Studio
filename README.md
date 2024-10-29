@@ -1,6 +1,6 @@
 # **AppConsumo (Calculadora de consumo de combustível)**
 
-> Um aplicativo Android desenvolvido para monitorar o consumo de recursos.
+> Um aplicativo Android desenvolvido para calcular gastos.
 
 ## Descrição
 O **AppConsumo** permite ao usuário monitorar e gerenciar o consumo de combustivel de carro para uma viagem e que calcula a distancia percorrida. Ele exibe gráficos e estatísticas detalhadas para ajudar o usuário a entender seu consumo e tomar decisões informadas (O nome do carro e placa são opicinais).
