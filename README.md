@@ -3,7 +3,7 @@
 > Um aplicativo Android desenvolvido para monitorar o consumo de recursos.
 
 ## Descrição
-O **AppConsumo** permite ao usuário monitorar e gerenciar o consumo de combustivel de carro para uma viagem. Ele exibe gráficos e estatísticas detalhadas para ajudar o usuário a entender seu consumo e tomar decisões informadas.
+O **AppConsumo** permite ao usuário monitorar e gerenciar o consumo de combustivel de carro para uma viagem e que calcula a distancia percorrida. Ele exibe gráficos e estatísticas detalhadas para ajudar o usuário a entender seu consumo e tomar decisões informadas (O nome do carro e placa são opicinais).
 
 ## Funcionalidades
 - [x] Entrada de dados de consumo
