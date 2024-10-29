@@ -54,7 +54,7 @@ Tela Principal
 
 ![Captura de tela 2024-10-28 200248](https://github.com/user-attachments/assets/9cefc399-5375-405e-9df3-720695de1e3f)
 
-Uma tela simples, as imagens são opicionais "Elas são colocadas por imagemView e selecione a pasta com as imagens pré-selecionadas", 5 EditText para, Nome do veiculo, Placa do carro, Km sendo distancia, Km/l sendo consumo, e o R$ sendo o preço gasto, e no final o TextView para mostrar o resultado final do calculo com as informações insiridas de maneira certa.
+Uma tela simples, as imagens são opicionais "Elas são colocadas por imagemView e selecione a pasta com as imagens pré-selecionadas", 5 EditText para, Nome do veiculo, Placa do carro, Km sendo distancia, Km/l sendo consumo, e o R$ sendo o preço gasto, um botão para processar a conta informada adequadamente, e no final o TextView para mostrar o resultado final do calculo com as informações insiridas de maneira certa.
 
 ## Desenvolvedores
 **Gabriel Henrique** - Desenvolvedor - [GitHub](https://github.com/Hacker19991).
